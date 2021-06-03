@@ -1,4 +1,4 @@
-# zokrates_playground
+# ZKP_Accounting
 
 Instructions for installing truffle + ganache can be found at: https://truffleframework.com
 
