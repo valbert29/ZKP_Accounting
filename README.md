@@ -41,7 +41,7 @@ Third(2) client has role User
 - Can transact with other clients with role Credit and User;
 
 ***
-Start UP
+Execute and operate
 ***
 To run a client:
 ```
