@@ -2,6 +2,10 @@
 
 Instructions for truffle + ganache can be found at: https://truffleframework.com
 
+***
+Installation
+***
+
 At begining you need to start up a local ethereum node:
 ```
 ganache-cli -d 
@@ -17,6 +21,7 @@ To compile and deploy the smart contracts:
 truffle compile
 truffle migrate
 ```
+
 ***
 Roles
 ***
@@ -35,7 +40,9 @@ Second(1) client has role Credit
 Third(2) client has role User
 - Can transact with other clients with role Credit and User;
 
-
+***
+Start UP
+***
 To run a client:
 ```
 truffle exec main.js
