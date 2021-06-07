@@ -21,10 +21,14 @@ First(0) client has role Emission
 - Can generate tokens in system; 
 - Send tokens to clients with role Credit; 
 - Cant get transactions from any clients; 
+
+
 Second(1) client has role Credit
 - Can get generated amount of tokens by Emission role client;
 - Can transact tokens both ways with clients with role User;
 - Cant send and get transactions with client with role Credit;
+
+
 Third(2) client has role User
 - Can transact with other clients with role Credit and User;
 
