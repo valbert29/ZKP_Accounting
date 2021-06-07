@@ -17,7 +17,9 @@ To compile and deploy the smart contracts:
 truffle compile
 truffle migrate
 ```
-*Roles
+***
+Roles
+***
 First(0) client has role Emission 
 - Can generate tokens in system; 
 - Send tokens to clients with role Credit; 
